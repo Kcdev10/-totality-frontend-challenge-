@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Cozy Apartment",
+    "description": "A cozy apartment in the city center with modern amenities.",
+    "price": 12000,
+    "image": "https://plus.unsplash.com/premium_photo-1686090449192-4ab1d00cb735?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "location": "Delhi",
+    "bedrooms": 2,
+    "amenities": ["WiFi", "Air Conditioning"],
+    "availability": true,
+    "quantity": 5
+  },
+  {
+    "id": 2,
+    "title": "Luxury Villa",
+    "description": "A luxury villa with an ocean view and spacious living areas.",
+    "price": 25000,
+    "image": "https://images.unsplash.com/photo-1448630360428-65456885c650?q=80&w=2067&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "location": "Goa",
+    "bedrooms": 4,
+    "amenities": ["WiFi", "Pool", "Parking"],
+    "availability": true,
+    "quantity": 4
+  },
+  {
+    "id": 3,
+    "title": "Charming Cottage",
+    "description": "A charming cottage surrounded by nature, perfect for a getaway.",
+    "price": 9000,
+    "image": "https://plus.unsplash.com/premium_photo-1661876449499-26de7959878f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "location": "Ooty",
+    "bedrooms": 1,
+    "amenities": ["Garden", "WiFi"],
+    "availability": true,
+    "quantity": 2
+  },
+  {
+    "id": 4,
+    "title": "Modern Loft",
+    "description": "A modern loft in the heart of the city with stylish decor.",
+    "price": 15000,
+    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "location": "Mumbai",
+    "bedrooms": 3,
+    "amenities": ["WiFi", "Air Conditioning", "Parking"],
+    "availability": true,
+    "quantity": 1
+  },
+  {
+    "id": 5,
+    "title": "Seaside Bungalow",
+    "description": "A seaside bungalow with stunning ocean views and private beach access.",
+    "price": 22000,
+    "image": "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "location": "Pondicherry",
+    "bedrooms": 2,
+    "amenities": ["WiFi", "Beach Access"],
+    "availability": true,
+    "quantity": 6
+  },
+  {
+    "id": 6,
+    "title": "Elegant Suite",
+    "description": "An elegant suite located near major attractions.",
+    "price": 18000,
+    "image": "https://images.unsplash.com/photo-1702971274208-3ddc0ed49936?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "location": "Bangalore",
+    "bedrooms": 1,
+    "amenities": ["WiFi", "Air Conditioning", "Parking"],
+    "availability": true,
+    "quantity": 1
+  },
+  {
+    "id": 7,
+    "title": "Rustic Farmhouse",
+    "description": "A rustic farmhouse with plenty of charm and open space.",
+    "price": 11000,
+    "image": "https://plus.unsplash.com/premium_photo-1687960117014-f6463f5b419a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "location": "Punjab",
+    "bedrooms": 3,
+    "amenities": ["WiFi", "Garden"],
+    "availability": true,
+    "quantity": 1
+  },
+  {
+    "id": 8,
+    "title": "Stylish Apartment",
+    "description": "A stylish apartment with contemporary furnishings and views.",
+    "price": 16000,
+    "image": "https://images.unsplash.com/photo-1581626310216-5ea8ba647e5e?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "location": "Chennai",
+    "bedrooms": 2,
+    "amenities": ["WiFi", "Air Conditioning", "Parking"],
+    "availability": true,
+    "quantity": 1
+  },
+  {
+    "id": 9,
+    "title": "Downtown Condo",
+    "description": "A condo located downtown with easy access to public transport.",
+    "price": 13000,
+    "image": "https://images.unsplash.com/photo-1505521586751-90af6a8d5efa?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "location": "Kolkata",
+    "bedrooms": 1,
+    "amenities": ["WiFi", "Gym"],
+    "availability": true,
+    "quantity": 1
+  },
+  {
+    "id": 10,
+    "title": "Luxury Apartment",
+    "description": "A luxury apartment with state-of-the-art amenities and stunning views.",
+    "price": 30000,
+    "image": "https://plus.unsplash.com/premium_photo-1676467492300-344de29e3161?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "location": "Hyderabad",
+    "bedrooms": 2,
+    "amenities": ["WiFi", "Pool", "Parking"],
+    "availability": true,
+    "quantity": 1
+  }
+]
